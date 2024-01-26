@@ -1,0 +1,19 @@
+body {
+    background-color: darkslategray;
+}
+
+h1 {
+    color: cadetblue;
+}
+
+h3 {
+    color: darksalmon;
+}
+
+.link {
+    display: flex;
+    cursor: pointer;
+    text-decoration: none;
+    color: darksalmon;
+
+}
