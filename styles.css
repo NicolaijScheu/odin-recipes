@@ -1,0 +1,27 @@
+.recipe-img {
+    width: 450px;
+    height: auto;
+}
+
+.heading {
+    text-align: center;
+}
+
+.home-link {
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border-radius: 15%;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.index-links {
+    display: inline-block;
+    text-decoration: none;
+    margin: 10px 0px;
+}
+
+.recipe-list {
+    border: 1px solid black;
+}
